@@ -4,6 +4,7 @@
   "description": "resume.tonystudio.ml",
   "main": "index.html",
   "scripts": {
+    "start": "npm run dev",
     "dev": "webpack-dev-server --mode=development --open",
     "build": "webpack --mode=production"
   },
