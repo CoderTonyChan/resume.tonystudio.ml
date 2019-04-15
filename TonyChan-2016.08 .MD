@@ -11,7 +11,7 @@
 
 # 联系方式
 * 手机：15217363900
-* Email：Codertonychan@iCloud.com
+* Email：hi@tonystudio.ml
 * QQ/微信号：101992315/1521736****
 
 # 工作经历
