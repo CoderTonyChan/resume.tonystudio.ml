@@ -11,9 +11,6 @@
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
-## 简历参考借鉴来源
-
-- [简历 | 闵聪 - Cong Min](http://resume.congm.in/)
-> Fork 或借鉴请注明出处： [@Cong Min](https://congm.in)
+inspired by [Cong Min](https://congm.in)
 
 <!-- ![JPG 版简历](./TonyChan.jpg) -->
